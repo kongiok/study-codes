@@ -1,0 +1,19 @@
+# Zig build cache
+zig-cache/
+zig-out/
+.zig-cache
+
+# Tmp files
+*.swp
+*.swo
+*~
+.DS_Store
+
+# VSCode
+.vscode/
+
+# CLion / JetBrains
+.idea/
+
+# Dumps
+Thumbs.db
